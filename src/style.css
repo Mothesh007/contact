@@ -1,0 +1,112 @@
+#head{
+    color: rgb(7, 7, 7);
+    background-color: rgb(80, 226, 66);
+    padding: 20px;
+    text-align: center;
+}
+#head1{
+    text-align: center;
+}
+#head2{
+    text-align: center;
+}
+
+#in{display: flex ;
+    display: flexbox;
+ background-color: rgb(117, 177, 147);width:500px ;
+height: 450px;
+text-align: center;
+flex-direction: column;
+align-items: center;
+margin: auto;
+margin-top: 80px;
+
+
+
+}
+#addcontact{
+    background-color: rgb(26, 206, 95);
+    width: 500px;
+    height:fit-content;
+    
+    
+
+    
+    
+}
+#box1{
+    padding: 10px;
+    width: 400px;
+    margin-top: 150px;
+    padding: 10px;
+    width: 350px;
+    border-radius: 15px;
+    
+}
+#box2{
+    padding: 10px;
+    width: 400px;
+   margin-top: 10px;
+    padding: 10px;
+    width: 350px;
+    border-radius: 15px;
+}
+#box3{
+    padding: 10px;
+    width: 400px;
+   margin-top: 10px;
+    padding: 10px;
+    width: 350px;
+    border-radius: 15px;
+}
+
+#bt{
+    width: 150px;
+    margin-top: 10px;
+    height: 35px;
+    border-radius: 15px;
+
+}
+#bt:hover{
+    color: black;
+    background-color: green;
+
+}
+#box1:hover{
+    color: black;
+    background-color: rgb(182, 218, 182);
+}#box3:hover{
+    color: black;
+    background-color: rgb(182, 218, 182);}
+
+#box2:hover{
+    color: black;
+    background-color: rgb(182, 218, 182);}
+    #head2{
+        background-color: rgb(20, 109, 42);
+        width: 500px;
+    }
+    #list{
+        background-color: rgb(149, 218, 158);
+        display: block;
+    }
+    #edit:hover{
+        background-color: black;
+        color: white;
+    }#delete:hover{
+        background-color: rgb(247, 14, 14);
+        color: rgb(20, 20, 20);
+    }
+    #a{background-color: black;}
+    #head1{
+        color: white;
+    }
+    #b1{
+        background-color: rgb(3, 99, 62);
+      padding-bottom: 5px;
+      margin-top: 53px;
+      
+      
+      
+      
+    }
